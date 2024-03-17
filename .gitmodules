@@ -1,0 +1,12 @@
+[submodule "CLM-1"]
+	path = CLM-1
+	url = git@github.com:M3tering/CLM-1.git
+[submodule "CLM-0"]
+	path = CLM-0
+	url = git@github.com:M3tering/CLM-0.git
+[submodule "CLM-2"]
+	path = CLM-2
+	url = git@github.com:M3tering/CLM-2.git
+[submodule "CLM-3"]
+	path = CLM-3
+	url = git@github.com:M3tering/CLM-3.git
